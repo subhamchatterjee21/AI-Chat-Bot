@@ -1,1 +1,2 @@
 # AI-Chat-Bot
+This project is a simple Streamlit application that creates a conversational interface with a Google Generative AI model. The application allows users to input messages via a text input box, which are then processed by the Google Generative AI model to generate responses. The conversation history is displayed on the screen, alternating between user messages and AI-generated responses.
